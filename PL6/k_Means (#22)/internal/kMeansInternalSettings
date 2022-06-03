@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="kMeans">
+    <entry key="dimensions" type="xint" value="18"/>
+    <entry key="ignoredColumns" type="xint" value="1"/>
+    <config key="clusterCoverage">
+        <entry key="array-size" type="xint" value="2"/>
+        <entry key="0" type="xint" value="82"/>
+        <entry key="1" type="xint" value="539"/>
+    </config>
+    <config key="kMeansCluster0">
+        <entry key="array-size" type="xint" value="17"/>
+        <entry key="0" type="xdouble" value="10970.134146341463"/>
+        <entry key="1" type="xdouble" value="6754.182926829269"/>
+        <entry key="2" type="xdouble" value="2563.8536585365855"/>
+        <entry key="3" type="xdouble" value="44.58536585365854"/>
+        <entry key="4" type="xdouble" value="71.78048780487805"/>
+        <entry key="5" type="xdouble" value="12617.80487804878"/>
+        <entry key="6" type="xdouble" value="2390.0365853658536"/>
+        <entry key="7" type="xdouble" value="11431.792682926829"/>
+        <entry key="8" type="xdouble" value="4831.890243902439"/>
+        <entry key="9" type="xdouble" value="596.060975609756"/>
+        <entry key="10" type="xdouble" value="1660.3170731707316"/>
+        <entry key="11" type="xdouble" value="87.53658536585365"/>
+        <entry key="12" type="xdouble" value="92.0609756097561"/>
+        <entry key="13" type="xdouble" value="13.16219512195122"/>
+        <entry key="14" type="xdouble" value="20.414634146341463"/>
+        <entry key="15" type="xdouble" value="15674.69512195122"/>
+        <entry key="16" type="xdouble" value="70.03658536585365"/>
+    </config>
+    <config key="kMeansCluster1">
+        <entry key="array-size" type="xint" value="17"/>
+        <entry key="0" type="xdouble" value="1885.6660482374768"/>
+        <entry key="1" type="xdouble" value="1335.82560296846"/>
+        <entry key="2" type="xdouble" value="514.4860853432282"/>
+        <entry key="3" type="xdouble" value="25.410018552875695"/>
+        <entry key="4" type="xdouble" value="53.36178107606679"/>
+        <entry key="5" type="xdouble" value="2291.4916512059367"/>
+        <entry key="6" type="xdouble" value="621.4564007421151"/>
+        <entry key="7" type="xdouble" value="10367.74211502783"/>
+        <entry key="8" type="xdouble" value="4286.677179962894"/>
+        <entry key="9" type="xdouble" value="538.2356215213358"/>
+        <entry key="10" type="xdouble" value="1308.9313543599258"/>
+        <entry key="11" type="xdouble" value="70.64007421150278"/>
+        <entry key="12" type="xdouble" value="77.98330241187384"/>
+        <entry key="13" type="xdouble" value="14.135435992578852"/>
+        <entry key="14" type="xdouble" value="22.98886827458256"/>
+        <entry key="15" type="xdouble" value="8897.625231910946"/>
+        <entry key="16" type="xdouble" value="64.99257884972171"/>
+    </config>
+    <config key="FeatureNames">
+        <entry key="array-size" type="xint" value="18"/>
+        <entry key="0" type="xstring" value="Apps"/>
+        <entry key="1" type="xstring" value="Accept"/>
+        <entry key="2" type="xstring" value="Enroll"/>
+        <entry key="3" type="xstring" value="Top10perc"/>
+        <entry key="4" type="xstring" value="Top25perc"/>
+        <entry key="5" type="xstring" value="F.Undergrad"/>
+        <entry key="6" type="xstring" value="P.Undergrad"/>
+        <entry key="7" type="xstring" value="Outstate"/>
+        <entry key="8" type="xstring" value="Room.Board"/>
+        <entry key="9" type="xstring" value="Books"/>
+        <entry key="10" type="xstring" value="Personal"/>
+        <entry key="11" type="xstring" value="PhD"/>
+        <entry key="12" type="xstring" value="Terminal"/>
+        <entry key="13" type="xstring" value="S.F.Ratio"/>
+        <entry key="14" type="xstring" value="perc.alumni"/>
+        <entry key="15" type="xstring" value="Expend"/>
+        <entry key="16" type="xstring" value="Grad.Rate"/>
+        <entry key="17" type="xstring" isnull="true" value=""/>
+    </config>
+</config>
